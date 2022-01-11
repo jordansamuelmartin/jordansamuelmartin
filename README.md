@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jordansamuelmartin
 - 👀 I’m interested in BI and DATA VISUALIZATION
 - 🌱 I’m currently learning DATA SCIENCE & BUSINESS ANALYTICS
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on N/A
 - 📫 How to reach me jordysammymarty@icloud.com
 
 <!---
